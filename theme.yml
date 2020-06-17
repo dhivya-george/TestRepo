@@ -6,4 +6,4 @@ steps:
           SHOPIFY_PASSWORD: ${{ secrets.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 }}
           SHOPIFY_STORE_URL: ${{ secrets.ap-demo-dhivya.myshopify.com }}
           SHOPIFY_THEME_ID: ${{ secrets.102140379293 }}
-          THEME_PATH: ${{ secrets./. }}
+          THEME_PATH: ${{ secrets../. }}
